@@ -1,0 +1,4 @@
+I need to add a scenario in which it slows the car down if it's moving and i press the opposite key.
+Right now it adds to the speed and moves.
+I need it to slow down to 0. If speed i == 0, i can do the actually mechanics of the key.
+
