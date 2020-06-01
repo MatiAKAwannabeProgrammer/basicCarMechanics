@@ -15,7 +15,8 @@ private:
     sf::Texture playerTexture;
     sf::Vector2f playerOrigin;
     bool isMoving;
-    float speed;
+    float wSpeed;
+    float sSpeed;
     char flag;
 
 public:
